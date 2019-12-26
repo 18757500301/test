@@ -7,7 +7,7 @@ if ((player == 1 and computer == 2)
         or (player == 2 and computer == 3)
         or (player == 3 and computer == 1)):
     print("电脑垃圾东西")
-# 平局
+# 平局了
 elif player == computer:
     print("平局")
 else:
